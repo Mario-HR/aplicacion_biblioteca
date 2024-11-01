@@ -225,5 +225,18 @@
     "Web Server is Down": "Web Server is Down",
     "Whoops!": "Whoops!",
     "Yes": "Yes",
-    "You are receiving this email because we received a password reset request for your account.": "You are receiving this email because we received a password reset request for your account."
+    "You are receiving this email because we received a password reset request for your account.": "You are receiving this email because we received a password reset request for your account.",
+    "All rights reserved": "All rights reserved",
+    "Today is": "Today is",
+    "Main view": "Main view",
+    "Book registration": "Book registration",
+    "Server response": "Server response",
+    "Title": "Title",
+    "Author": "Author",
+    "Pages": "Pages",
+    "Year": "Year",
+    "Publisher": "Publisher",
+    "Publisher Email": "Publisher Email",
+    "Register book": "Register book",
+    "Book saved successfully": "Book saved successfully"
 }
